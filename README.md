@@ -1,4 +1,5 @@
 # todolist
+Todo list feito a partir de conceitos basicos de reatividade no Vue e conceitos de gerenciamento de reatividade no Vue
 
 ## Project setup
 ```
